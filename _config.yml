@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Sanish Singh Karki"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,11 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Sanish Singh Karki"  
+  bio              : "I am Thorag Shelbrok and I have great intrest in Technlogy."
+  location         : "Toroto, Ontario"
+  college         : "Niagra College"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -335,7 +334,7 @@ category_archive:
   path: /categories/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /tags/  
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
