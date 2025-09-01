@@ -8,12 +8,17 @@ redirect_from:
 ---
 
 
+
 What I want to include is:
 
 My Studies
+
 My Technical Skill
+
 My Personal Projects that I have Done in College
+
 My Work Experience
+
 
 
 
